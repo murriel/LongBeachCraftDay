@@ -17,4 +17,5 @@ The plan is to hold one craft day a quarter - centered around a specific technol
 **Craft Day 1 - Saturday February 24, 2018:**
 
 Let's build Gemma Sequin Hats using Adafruit's Gemma board, LED sequins, and conductive thread!  
+
 RSVP here: [Long Beach Craft Day - RSVP](https://longbeachcraftday01.splashthat.com/)  
