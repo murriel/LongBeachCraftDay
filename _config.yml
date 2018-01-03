@@ -1,1 +1,3 @@
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
+# it worked, but some config required to get the theme pretty
+theme: minimal
