@@ -7,7 +7,7 @@ RSVP here: [Long Beach Craft Day - RSVP](https://longbeachcraftday01.splashthat.
 ## What to Bring
 Yourself!
 Laptop [Windows or Mac]
-Food?
+Finger Foods / Snacks!
 
 ## Prep
 Install Arduino IDE
